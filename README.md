@@ -3,30 +3,32 @@ The goal of this repo is to create a unified snapshot of all the Cura 4.0 settin
 
 Whether you are a newbie (like me) or a seasoned printer, I would very much appreciate pull requests to further update this suite of settings.
 
-On the Mac:
+## Setup
+
+### On the Mac:
 mv ~/Library/Application\ Support/cura/4.0 ~/Library/Application\ Support/cura/old4.0
+
 git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ Support/cura/4.0
 
-On Windows:
+### On Windows:
 ...
 
-On Linux:
+### On Linux:
 ...
 
-Printers:
-"TRex-3 Single Left" - standard print
-"TRex-3 Single Right" - standard print but with right extruder
-"TRex-3 Single Duplicate" - use TRex duplicate feature
-"TRex-3 Single Mirror" - use TRex mirror feature
-"TRex-3 Dual" - dual color
+## Printers:
+- "TRex-3 Single Left" - standard print
+- "TRex-3 Single Right" - standard print but with right extruder
+- "TRex-3 Single Duplicate" - use TRex duplicate feature
+- "TRex-3 Single Mirror" - use TRex mirror feature
+- "TRex-3 Dual" - dual color
 
-Material:
-"TRex-3 PLA" - corrects default temperature and retraction settings
+## Material:
+- "TRex-3 PLA" - corrects default temperature and retraction settings
 
-Profiles:
-"Standard Draft" - adjusts defaults given TRex's printing capabilities
+## Profiles:
+- "Standard Draft" - adjusts defaults given TRex's printing capabilities
 
-Current Status:
-
+## Current Status:
 "TRex-3 Single Left" is the only machine with known correct GCode.
 
