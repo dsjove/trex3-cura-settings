@@ -1,11 +1,11 @@
 # trex3-cura-settings
-The goal of this repo is to create a unified snapshot of all the Cura 4.0 settings relevant to a TRex 3 printer. The printer is distributed with out-of-date Cura settings. I have found a lot of help on various Facrbook formums put the information has not been complete nor without gotchas and human error. As I learn and extend my Cura settings, I'll update this.
+The goal of this repo is to create a unified snapshot of all the Cura 4.0 settings relevant to a TRex 3 printer. The printer is distributed with out-of-date Cura settings. I have found a lot of help on various Facrbook forums but the information has at times been incomplete, not without gotchas, and human error (transcribing). As I learn and extend my Cura settings, I'll update this repo.
 
 Whether you are a newbie (like me) or a seasoned printer, I would very much appreciate pull requests to further update this suite of settings.
 
 On the Mac:
 mv ~/Library/Application\ Support/cura/4.0 ~/Library/Application\ Support/cura/old4.0
-git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ Support/cura/
+git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ Support/cura/4.0
 
 On Windows:
 ...
