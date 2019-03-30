@@ -31,9 +31,9 @@ git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ S
 - "Standard Fine" - adjusts defaults given TRex's printing capabilities
 
 ## Current Status:
-[x] "TRex-3 Single Left"
-[ ] "TRex-3 Single Right"
-[X] "TRex-3 Duplicate"
-[ ] "TRex-3 Mirror"
-[ ] "TRex-3 Dual"
+- [x] "TRex-3 Single Left"
+- [ ] "TRex-3 Single Right"
+- [X] "TRex-3 Duplicate"
+- [ ] "TRex-3 Mirror"
+- [ ] "TRex-3 Dual"
 
