@@ -7,6 +7,12 @@ On the Mac:
 mv ~/Library/Application\ Support/cura/4.0 ~/Library/Application\ Support/cura/old4.0
 git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ Support/cura/
 
+On Windows:
+...
+
+On Linux:
+...
+
 Printers:
 "TRex-3 Single Left" - standard print
 "TRex-3 Single Right" - standard print but with right extruder
