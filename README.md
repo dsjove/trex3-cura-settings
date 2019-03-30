@@ -19,8 +19,8 @@ git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ S
 ## Printers:
 - "TRex-3 Single Left" - standard print
 - "TRex-3 Single Right" - standard print but with right extruder
-- "TRex-3 Single Duplicate" - use TRex duplicate feature
-- "TRex-3 Single Mirror" - use TRex mirror feature
+- "TRex-3 Duplicate" - use TRex duplicate feature
+- "TRex-3 Mirror" - use TRex mirror feature
 - "TRex-3 Dual" - dual color
 
 ## Material:
@@ -28,7 +28,12 @@ git clone https://github.com/dsjove/trex3-cura-settings ~/Library/Application\ S
 
 ## Profiles:
 - "Standard Draft" - adjusts defaults given TRex's printing capabilities
+- "Standard Fine" - adjusts defaults given TRex's printing capabilities
 
 ## Current Status:
-"TRex-3 Single Left" is the only machine with known correct GCode.
+[x] "TRex-3 Single Left"
+[ ] "TRex-3 Single Right"
+[X] "TRex-3 Duplicate"
+[ ] "TRex-3 Mirror"
+[ ] "TRex-3 Dual"
 
